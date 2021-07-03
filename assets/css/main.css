@@ -100,11 +100,11 @@ input, select, textarea {
 
 	body {
 		
-		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-color: #464345;
+		/* background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%); */
+		/* background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%); */
+		/* background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%); */
+		/* background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%); */
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -121,7 +121,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #935d8c;
+		background-color: #494749;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -3067,7 +3067,7 @@ input, select, textarea {
 		}
 
 	.spotlight .image {
-		border-color: rgba(255, 255, 255, 0.35);
+		border-color: rgba(248, 10, 10, 0.35);
 	}
 
 /* Header */
@@ -3335,25 +3335,25 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #ffffff;
-		color: #636363;
+		background-color: #88d4e9a6;
+		color: #141414;
 		border-radius: 0.25em;
 	}
 
 		#main input, #main select, #main textarea {
-			color: #636363;
+			color: #0e0d0d;
 		}
 
 		#main a:hover {
-			color: #636363;
+			color: #0e0d0d;
 		}
 
 		#main strong, #main b {
-			color: #636363;
+			color: #111111;
 		}
 
 		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
-			color: #636363;
+			color: #111111;
 		}
 
 		#main blockquote {
