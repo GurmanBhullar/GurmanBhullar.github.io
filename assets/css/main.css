@@ -3335,13 +3335,13 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #88d4e98e;
-		color: #141414;
+		background-color: #88d4e9d8;
+		color: #000000;
 		border-radius: 0.25em;
 	}
 
 		#main input, #main select, #main textarea {
-			color: #0e0d0d;
+			color: #000000;
 		}
 
 		#main a:hover {
@@ -3349,11 +3349,11 @@ input, select, textarea {
 		}
 
 		#main strong, #main b {
-			color: #111111;
+			color: #000000;
 		}
 
 		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
-			color: #111111;
+			color: #000000;
 		}
 
 		#main blockquote {
@@ -3361,7 +3361,7 @@ input, select, textarea {
 		}
 
 		#main code {
-			background: rgba(222, 222, 222, 0.25);
+			background: rgba(0, 0, 0, 0.25);
 			border-color: #dddddd;
 		}
 
@@ -3388,7 +3388,7 @@ input, select, textarea {
 			#main input[type="button"]:hover,
 			#main button:hover,
 			#main .button:hover {
-				background-color: rgba(222, 222, 222, 0.25);
+				background-color: rgba(0, 0, 0, 0.25);
 			}
 
 			#main input[type="submit"]:active,
@@ -3442,7 +3442,7 @@ input, select, textarea {
 				}
 
 		#main label {
-			color: #636363;
+			color: #000000;
 		}
 
 		#main input[type="text"],
@@ -3497,7 +3497,7 @@ input, select, textarea {
 		}
 
 		#main ::-webkit-input-placeholder {
-			color: rgba(99, 99, 99, 0.25) !important;
+			color: rgba(0, 0, 0, 0.25) !important;
 		}
 
 		#main :-moz-placeholder {
